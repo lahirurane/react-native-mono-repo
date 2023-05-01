@@ -1,0 +1,15 @@
+{
+  "name": "@sample/my-button",
+  "version": "1.0.0",
+  "description": "Example Design system button",
+  "license": "MIT",
+  "private": true,
+  "main": "dist/sample-my-button.cjs.js",
+  "types": "dist/sample-my-button.cjs.d.ts",
+  "module": "dist/sample-my-button.esm.js",
+  "react-native": "src/index.ts",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.7"
+  }
+}
